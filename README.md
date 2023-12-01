@@ -1,4 +1,4 @@
-# PicoMar
+# PicoMart
 
 PicoMart is an e-commerce website where you can explore and shop for a wide range of products. It allows you to filter products by category and sort them by price, making your shopping experience convenient and enjoyable.
 
